@@ -1,4 +1,4 @@
-/////////fuction declarations
+/////////fuction declarations//
 
 const cats = ["Milo", "Otis", "Garfield"];
 function Arrayfunction(){
